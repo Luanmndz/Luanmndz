@@ -3,7 +3,7 @@
 **`Desenvolvedor em Formação`**
 </br>
 <br>
-Desenvolvedor em formação pela FATEC, com foco em desenvolvimento web utilizando HTML, CSS e Bootstrap. Atualmente estudando Java e aprofundando meus conhecimentos para atuar como FullStack. Sou motivado por desafios e foco no aprendizado contínuo na área de tecnologia.
+Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento web utilizando HTML, CSS e Bootstrap. Atualmente estudando Back-End e aprofundando meus conhecimentos para atuar como FullStack. Sou motivado por desafios e foco no aprendizado contínuo na área de tecnologia.
 <p align="left">
     <a href="https://www.instagram.com/luaanmendez/">
         <img 
