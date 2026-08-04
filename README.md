@@ -3,7 +3,8 @@
 **`Software Developer in Training`**
 </br>
 <br>
-Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento web utilizando HTML, CSS e Bootstrap. Atualmente estudando Back-End e aprofundando meus conhecimentos para atuar como FullStack. Sou motivado por desafios e foco no aprendizado contínuo na área de tecnologia.
+    Multiplatform Software Development (DSM) student at Fatec Zona Sul, learning JavaScript, MySQL, Python, and HTML and CSS. <br>
+    On top of that, I'm also studying a Front-End Developer course at Senac and a FullStack Developer course on Udemy.
 <p align="left">
     <a href="https://www.instagram.com/luaanmendez/>
         <img 
