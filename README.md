@@ -14,12 +14,7 @@ Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento 
     </a>
  
 
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Luanmndz?color=14532D&labelColor=14532D&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+     
 </p>
 
 ---
