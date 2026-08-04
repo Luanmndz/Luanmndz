@@ -1,4 +1,4 @@
-# ♾️Luan Mendes
+# Luan Mendes Nascimento
 
 **`Desenvolvedor em Formação`**
 </br>
