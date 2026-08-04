@@ -51,8 +51,7 @@ Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento 
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />     
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />     
 />
 <img 
     align="left" 
