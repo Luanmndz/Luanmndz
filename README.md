@@ -13,20 +13,7 @@ Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento 
         />
     </a>
  
-        <img 
-            alt="Localização" 
-            title="" 
-            src="https://custom-icon-badges.demolab.com/badge/São Paulo, Brasil-14532D?style=for-the-badge&logo=location&logoColor=white"
-        />
-  
-   
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Luanmndz?color=0A2540&style=for-the-badge&labelColor=0A2540&logo=star&label=estrelas"
-        />
 
-    <a href="https://github.com/Luanmndz?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
