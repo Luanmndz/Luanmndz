@@ -1,6 +1,6 @@
 # Luan Mendes Nascimento
 
-**`Desenvolvedor de Software em Formação`**
+**`Software Developer in Training`**
 </br>
 <br>
 Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento web utilizando HTML, CSS e Bootstrap. Atualmente estudando Back-End e aprofundando meus conhecimentos para atuar como FullStack. Sou motivado por desafios e foco no aprendizado contínuo na área de tecnologia.
