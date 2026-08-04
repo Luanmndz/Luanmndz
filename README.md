@@ -19,13 +19,13 @@ Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento 
 
 ---
 
-<h3 align="left">Entre em Contato!</h3>
+<h3 align="left"> Contact Me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=0A2540&color:FFF)](mailto:luanmendesnascimentoofc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/luan-mendes-a3a4903a8/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:)](https://www.instagram.com/luaanmendez/)
 
-###  Linguagens e Tecnologias
+###  Languages and Technologies
 
 <img 
     align="left" 
@@ -75,5 +75,3 @@ Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
