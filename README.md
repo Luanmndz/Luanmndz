@@ -3,7 +3,7 @@
 **`Software Developer in Training`**
 </br>
 <br>
-    Multiplatform Software Development (DSM) student at Fatec Zona Sul, learning JavaScript, MySQL, Python, and HTML and CSS. <br>
+    Multiplatform Software Development 2°(DSM) student at Fatec Zona Sul, learning JavaScript, MySQL, Python, and HTML and CSS. <br>
     On top of that, I'm also studying a Front-End Developer course at Senac and a FullStack Developer course on Udemy.
 <p align="left">
     <a href="https://www.instagram.com/luaanmendez/>
