@@ -12,20 +12,20 @@ Desenvolvedor em formação pela FATEC, com foco nos estudos de desenvolvimento 
             src="https://custom-icon-badges.demolab.com/badge/-Instagram-0A2540?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+ 
         <img 
             alt="Localização" 
             title="" 
             src="https://custom-icon-badges.demolab.com/badge/São Paulo, Brasil-14532D?style=for-the-badge&logo=location&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+  
+   
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Luanmndz?color=0A2540&style=for-the-badge&labelColor=0A2540&logo=star&label=estrelas"
         />
-    </a>
+
     <a href="https://github.com/Luanmndz?tab=followers">
         <img 
             alt="Seguidores" 
